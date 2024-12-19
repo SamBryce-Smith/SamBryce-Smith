@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-I'm a final year bioinformatics PhD student studying amyotrophic lateral sclerosis (ALS) in the labs of Prof Pietro Fratta & Dr Maria Secrier at UCL. I mainly focus on bioinformatic analysis of alternative polyadenylation with RNA-seq data, especially bulk short-read RNA-seq and Nanopore long-read sequencing. Generally very interested in using sequencing approaches to understand how RNA-binding proteins influence the transcriptome and taking any opportunity to build Snakemake pipelines!
+I'm a soon-to-graduate (pending minor corrections) bioinformatics PhD student from the labs of Prof Pietro Fratta & Dr Maria Secrier at UCL. I mainly focus on bioinformatic analysis of alternative polyadenylation (APA) in amyotrophic lateral sclerosis (ALS) with RNA-seq data.  Generally very interested in using sequencing approaches to understand how RNA-binding proteins influence the transcriptome and taking any opportunity to build Snakemake pipelines!
 
 **Actively looking for job opportunities in Belgium!**
 
 Currently working on:
-- PhD thesis (!)
-- Novel methods for identifying, quantifying and assessing differential usage of polyA sites from bulk RNA-seq data (watch this space!).
+ - A Python package extending the [PyRanges](https://github.com/pyranges/pyranges) library with methods to facilitate genomic analysis (coming soon!)
+-  Developing improved methods for identifying, quantifying and assessing differential usage of polyA sites from bulk RNA-seq data (watch this space!)
+
+
+Previous major projects:
+- **Analysis of APA dysregulation in ALS** - Developed analysis pipelines in Snakemake (e.g. [PAPA](https://github.com/frattalab/PAPA), [QAPA_snakemake](https://github.com/frattalab/QAPA_snakemake), [bulk_polya_tail_reads](https://github.com/SamBryce-Smith/bulk_polyatail_reads), [bedops_parse_star_junctions](https://github.com/SamBryce-Smith/bedops_parse_star_junctions), [rna_seq_single_steps](https://github.com/frattalab/rna_seq_single_steps)) and analysis code ([tdp43-apa](https://github.com/frattalab/tdp43-apa), [thesis](https://github.com/SamBryce-Smith/thesis))
 - **[APAeval](https://github.com/iRNA-COSI/APAeval)** - a community project to develop a framework for reproducible benchmarking of bioinformatic algorithms and assess the performance of tools that identify and/or quantify polyA sites from bulk RNA-seq data.
 
 <!--
