@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a soon-to-graduate (pending minor corrections) bioinformatics PhD student from the labs of Prof Pietro Fratta & Dr Maria Secrier at UCL. I mainly focus on bioinformatic analysis of alternative polyadenylation (APA) in amyotrophic lateral sclerosis (ALS) with RNA-seq data.  Generally very interested in using sequencing approaches to understand how RNA-binding proteins influence the transcriptome and taking any opportunity to build Snakemake pipelines!
+I'm a soon-to-graduate bioinformatics PhD student (pending minor corrections) from the labs of Prof Pietro Fratta & Dr Maria Secrier at UCL. I mainly focus on bioinformatic analysis of alternative polyadenylation (APA) in amyotrophic lateral sclerosis (ALS) with RNA-seq data.  Generally very interested in using sequencing approaches to understand how RNA-binding proteins influence the transcriptome and taking any opportunity to build Snakemake pipelines!
 
 **Actively looking for job opportunities in Belgium!**
 
