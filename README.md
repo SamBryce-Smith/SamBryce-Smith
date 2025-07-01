@@ -2,10 +2,7 @@
 
 I'm a recently graduated bioinformatics PhD student from the labs of Prof Pietro Fratta & Dr Maria Secrier at UCL. I mainly focus on bioinformatic analysis of alternative polyadenylation (APA) in amyotrophic lateral sclerosis (ALS) with RNA-seq data.  Generally very interested in using sequencing approaches to understand how RNA-binding proteins influence the transcriptome and taking any opportunity to build Snakemake pipelines!
 
-**Actively looking for job opportunities in Belgium!**
-
 Currently working on:
- - A Python package extending the [PyRanges](https://github.com/pyranges/pyranges) library with methods to facilitate genomic analysis (coming soon!)
 -  Developing improved methods for identifying, quantifying and assessing differential usage of polyA sites from bulk RNA-seq data (watch this space!)
 
 
