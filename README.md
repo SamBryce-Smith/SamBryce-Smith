@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm a bioinformatics post-doc in [Prof Sandrine Da Cruz's lab](https://dacruzlab.sites.vib.be/en) at the VIB-KU Leuven Center for Neuroscience (Belgium), mainly focusing on transcriptomic analysis (gene expression, alternative splicing and polydenylation) of in vitro and in vivo models of amyotrophic lateral sclerosis (ALS) to uncover novel disease effectors. I previously completed a PhD in the labs of Prof Pietro Fratta & Dr Maria Secrier at University College London studying alternative polyadenylation (APA) in ALS with RNA-seq data. 
+I'm a bioinformatics post-doc in [Prof Sandrine Da Cruz's lab](https://dacruzlab.sites.vib.be/en) at the VIB-KU Leuven Center for Neuroscience (Belgium), mainly focusing on transcriptomic analysis (gene expression, alternative splicing and polydenylation) of in vitro and in vivo models of amyotrophic lateral sclerosis (ALS) to uncover novel disease effectors. I previously completed a PhD in the labs of Prof Pietro Fratta & Dr Maria Secrier at University College London studying alternative polyadenylation (APA) in ALS, mainly using bulk RNA-seq data. 
 
 Interested in and working on:
 -  Developing improved methods for identifying, quantifying and assessing differential usage of polyadenylation sites from bulk RNA-seq data
 -  Developing generic omic analysis toolkits built on top of existing bioinformatics libraries, in particular the wonderful [pyranges(1) library](github.com/pyranges/pyranges_1.x)
--  developing and benchmarking algorithms/tools for investigating alternative polyadenylation using any flavour of RNA-sequencing (lots of ideas, too little time... get in touch if you're interested in collaborating!)
--  developing Snakemake pipelines whenever I'm given the opportunity
+-  developing and benchmarking tools for investigating alternative polyadenylation using any flavour of RNA-sequencing (lots of ideas, too little time... get in touch if you're interested in collaborating!)
+-  Snakemake (building and deploying pipelines and developing tools to make it easier to do so)
 -  RNA processing in general
 
 
