@@ -8,6 +8,7 @@ Interested in and working on:
 -  developing and benchmarking tools for investigating alternative polyadenylation using any flavour of RNA-sequencing (lots of ideas, too little time... get in touch if you're interested in collaborating!)
 -  Snakemake (building and deploying pipelines and developing tools to make it easier to do so)
 -  RNA processing in general
+-  Working out how best to use AI in my daily work (focusing on software development at the moment...)
 
 
 Previous major projects:
